@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a Stéfani! 
-- 🌱 Eu estou estudando Desenvolvimento de Web
+- 🌱 Estudante de Desenvolvimento mobile iOS
 ##
 
  <div align="center">
