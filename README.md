@@ -1,5 +1,5 @@
 # Olá! Eu sou a Stéfani 😜
-🌱 Estudante Desenvolvimento de Mobile e JavaScript
+🌱 Desenvolvimento de Mobile e JavaScript
    
    <p align="center">
   <a href="https://github.com/-stefaniseixas">
